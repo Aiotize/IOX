@@ -1,0 +1,15 @@
+Image/Object Tracking
+
+Image/Object Recognition
+
+Image/Object Classification
+
+2 Variants:
+On-board (Processor dependant) 
+- Integrating the MD5 (Model file) along the on board code for processing.
+- Onboard results need to be formatted before data transfer.
+- Recommended but could be hard
+
+On the server (Might have some latency issues)
+- Convert the telemetry data into a readable format by using python scripts. 
+- Perfrom analysis on the realtime data and project the results on the dashboard.
