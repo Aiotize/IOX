@@ -1,0 +1,40 @@
+30/11/2019 – INTRODUCTION 
+Verticals that we need to explore:
+	Construction
+	Public Administration
+	Search & Rescue
+	Emergency medical supplies to remote areas
+	Transport
+	Energy
+	Insurance
+	Surveillance 
+	Agriculture
+
+Some examples:
+Construction site Surveillance 
+Drones can have predictive capabilities by analysing the past data. For example, month-long footage captured from a construction site can be used to project how the site may look like in the next week or so.
+
+Search & Rescue
+Drones with efficient Machine learning algorithms can analyse the images of area by themselves and only send humans the images that have a searched object. For instance, a team of humans cannot keep an eye on video footage received from hundreds of drones in real time to find a missing vehicle. However, with AI, the smart algorithm can analyse the footage received from different cameras and identify the searched object in real time.
+
+Emergency medical supplies to remote areas
+It can detect the precise location where it must drop medicines where human cannot reach fast. Moreover, with better algorithms, it can locate the address and person to which the medicines must be delivered.
+
+
+Results from these verticals (Examples):
+	Live detection/tracking of assets at various locations
+	Detection of dolphins, turtles, animals in general
+	Detecting anomalies/defects after railway inspection
+	Classifying 3D point clouds into categories
+	Analysing images to classify natural disaster damages etc
+	Finding and classifying plant diseases
+
+Tasks:
+1.	Distribute the verticals amongst yourselves
+2.	Do research on each of these verticals and add the information to the individual folders/categories
+3.	We need code samples/documentation of the research being done not the web URL’s
+
+Important:
+	Do some side courses in your free time on AI/ML probably through Udemy or Coursera. EDx is fine but not recommended.
+	We need to have an understanding as to how to build applications using the existing frameworks such as PyTorch, Tensorflow and Keras. 
+	Integrating the existing models built using python into the code for your drones/devices.
